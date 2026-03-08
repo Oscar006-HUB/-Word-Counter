@@ -1,6 +1,6 @@
 # Word Counter
 
-A simple Python script that counts the number of words in a text file — built with error handling to make it reliable in real-world use.
+A simple Python script that counts the number of words in a text file  built with error handling to make it reliable in real-world use.
 
 ## Features
 
