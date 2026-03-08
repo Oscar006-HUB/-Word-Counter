@@ -46,7 +46,9 @@ Success! The file contains 142 words.
 2. Reads the full content with `utf-8` encoding
 3. Splits the text on whitespace using `.split()` to count words accurately
 4. Returns the word count, or `None` if an error occurred
-   NB:Target file can be modified from my file "example.txt" to file of your choice for coade to be able to read your file when executed.
+ 
 ## Project Context
 
 Built as part of my internship at **CodVeda Technologies** focused on defensive programming and writing code that doesn't just work, but holds up.
+
+  NB:Target file can be modified from my file "example.txt" to file of your choice for coade to be able to read your file when executed.
